@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Brian Pugh's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 2335, Total Commits  (last year) : 1201, Total PRs: 1301, Total Issues: 142, Contributed to (last year): 9</desc>
+        <desc id="descId">Total Stars Earned: 2335, Total Commits  (last year) : 1214, Total PRs: 1302, Total Issues: 142, Contributed to (last year): 9</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 5.067213387979391;
+        stroke-dashoffset: 5.00683915776733;
       }
     }
   
