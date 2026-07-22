@@ -19,7 +19,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@f9d8133845f40d659a754f78b8484983ba766448 # v2.0.1
         with:
           card: stats
-          options: username=brianpugh&theme=vue-dark&show_icons=true&hide_border=true&count_private=true
+          options: username=brianpugh&theme=vue-dark&show_icons=true&hide_border=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           # Empty core_version uses the core bundled in the action's lockfile
